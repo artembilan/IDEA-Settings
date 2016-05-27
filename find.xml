@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.adoc" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,9 +18,9 @@
       <mask>*.xsd</mask>
       <mask>*Tests.java</mask>
       <mask>*-4.3.xsd</mask>
-      <mask>*.adoc</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.adoc</mask>
     </recentFileMasks>
   </component>
 </application>

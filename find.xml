@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*-4.3.xsd" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,10 +16,10 @@
       <mask>*.xsd</mask>
       <mask>*Tests.java</mask>
       <mask>pom.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.adoc</mask>
       <mask>*-4.3.xsd</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

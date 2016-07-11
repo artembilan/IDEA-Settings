@@ -6,6 +6,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

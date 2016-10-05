@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".toDelete" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
